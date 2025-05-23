@@ -9,9 +9,7 @@
   <a href="https://github.com/subrataroyCVP"><img src="https://img.shields.io/github/followers/subrataroyCVP?label=follow&style=social" alt="GitHub Followers"></a>
 </p>
 
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=subrataroyCVP&title=Repositories,Commits,PullRequest,Followers,Stars,MultiLanguage&theme=radical" alt="GitHub Trophies">
-</p>
+[![Subrata's GitHub stats](https://github-readme-stats.vercel.app/api?username=subrataroyCVP&show_icons=true&theme=ambient_gradient&show=,prs_merged,prs_merged_percentage&hide=stars,contribs,issues,commits&rank_icon=github)](https://github.com/subrataroyCVP/github-readme-stats)
 
 ## Who Am I?
 ```python
