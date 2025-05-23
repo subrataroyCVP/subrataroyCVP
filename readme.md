@@ -1,7 +1,7 @@
 # Subrata Roy
 <h3>Senior Full Stack Developer & AI Enthusiast</h3>
 
-<p>Problem Solver | Agile Leader | Passionate about AI & Scalable Solutions</p>
+<p>Problem Solver | Passionate about AI & Scalable Solutions</p>
 
 <p style="display: flex; gap: 5px;">
   <a href="https://www.linkedin.com/in/subrataroy321/"><img src="https://custom-icon-badges.demolab.com/badge/subrataroy321-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn Badge" height="25px"></a>
